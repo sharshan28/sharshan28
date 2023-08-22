@@ -1,5 +1,6 @@
-### Hi there 👋
-
+  ### Hi there, I'm Sharshan 👋
+- A recent Computer Science graduate.
+- Based in London, UK.
 <!--
 **sharshan28/sharshan28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
