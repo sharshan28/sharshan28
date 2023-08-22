@@ -1,4 +1,4 @@
-<h3 align="center">Hey I'm Sharshan.<br> Recent Computer Science Graduate Based in London, UK.</h3>
+<h3 align="center">Recent Computer Science Graduate. Based in London, UK.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharshan28&label=Profile%20views&color=0e75b6&style=flat" alt="sharshan28" /> </p>
 
