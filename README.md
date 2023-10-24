@@ -7,13 +7,13 @@ With a recently attained BSc (Hons) in Computer Science, my professional aspirat
 - BSc Hons, Computer Science | Brunel University London (_July 2023_)								       		
 
 ## Professional Development
-**PwC Switzerland Cybersecurity Job Simulation on Forage (_October 2023_)**
+### PwC Switzerland Cybersecurity Job Simulation on Forage (_October 2023_)**
 - Completed a job simulation involving cybersecurity for PwC Digital Intelligence, gaining experience in understanding and explaining the concept of integrated defence.
 - Developed expertise in integrated defence strategies and their application in real-world scenarios.
 - Conducted risk assessments and formulated security recommendations for a client.
 - Demonstrated proficiency in cybersecurity terminology, network segmentation, and firewall configuration.
 
-**Google Cybersecurity Professional Certificate (_September 2023 - October 2023_)**
+### Google Cybersecurity Professional Certificate (_September 2023 - October 2023_)**
 - Successfully completed Google's rigorous cybersecurity program, gaining hands-on experience in key domains in:
 - Linux for secure system administration.
 - Python for scripting and automation, enhancing threat detection and response.
