@@ -4,7 +4,7 @@ With a recently attained BSc (Hons) in Computer Science, my professional aspirat
 #### Technical Skills: Linux , Python , SQL , Traffic Analysis , Packet Analysis , Incident Response , Security Information and Event Management (SIEM) , Network Security , Security Audits , vulnerability assessments
 
 ## Education
-- BSc Hons, Computer Science | Brunel University London (_July 2023_)								       		
+### BSc Hons, Computer Science | Brunel University London (_July 2023_)								       		
 
 ## Professional Development
 ### PwC Switzerland Cybersecurity Job Simulation on Forage (_October 2023_)**
