@@ -14,15 +14,15 @@ With a recently attained BSc (Hons) in Computer Science, my professional aspirat
 - Demonstrated proficiency in cybersecurity terminology, network segmentation, and firewall configuration.
 
 **Google Cybersecurity Professional Certificate (_September 2023 - October 2023_)**
-- Successfully completed Google's rigorous cybersecurity program, gaining hands-on experience in key domains in:
-• Linux for secure system administration.
-• Python for scripting and automation, enhancing threat detection and response.
-• SIEM tools for monitoring, analyzing, and responding to security events.
-• IDS for identifying and preventing security breaches.
-• SQL for efficient data querying and analysis, instrumental in incident management.
-• Packet Analysis for monitoring network traffic and detecting anomalies.
-• Acquired advanced network security techniques.
-• Positioned for CompTIA Security+ certification.
+Successfully completed Google's rigorous cybersecurity program, gaining hands-on experience in key domains in:
+- Linux for secure system administration.
+- Python for scripting and automation, enhancing threat detection and response.
+- SIEM tools for monitoring, analyzing, and responding to security events.
+- IDS for identifying and preventing security breaches.
+- SQL for efficient data querying and analysis, instrumental in incident management.
+- Packet Analysis for monitoring network traffic and detecting anomalies.
+- Acquired advanced network security techniques.
+- Positioned for CompTIA Security+ certification.
 
 ## Projects
 ### Foodbank Web Application (Penultimate Year Project)
