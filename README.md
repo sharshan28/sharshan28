@@ -1,4 +1,5 @@
-# With a recently attained BSc (Hons) in Computer Science, my professional aspirations converge resolutely toward the dynamic realm of cybersecurity. I aim to leverage my technical prowess, cybersecurity knowledge, and unwavering commitment to data protection to fortify digital assets against evolving cyber threats.
+# Summary
+With a recently attained BSc (Hons) in Computer Science, my professional aspirations converge resolutely toward the dynamic realm of cybersecurity. I aim to leverage my technical prowess, cybersecurity knowledge, and unwavering commitment to data protection to fortify digital assets against evolving cyber threats.
 
 #### Technical Skills: Linux, Python, SQL, SIEM Tools, TCPdump
 
